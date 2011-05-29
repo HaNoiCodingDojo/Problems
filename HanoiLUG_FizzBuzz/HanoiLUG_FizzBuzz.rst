@@ -73,7 +73,9 @@ Resources
 License
 =======
 
-
+This text is distributed under Creative Commons License Share-Alike
+version 2.5.  For the full text of the license, please visit the
+`CC-SA 2.5 full license page`_.
 
 Links
 =====
@@ -81,6 +83,8 @@ Links
 .. _`Original link`: http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz
 
 .. _`Paris Dojo catalogue`: http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue
+
+.. _`CC-SA 2.5 full license page`: http://creativecommons.org/licenses/by-sa/2.5/legalcode
 
 .. target-notes::
 .. title:: HanoiLUG FizzBuzz
